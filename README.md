@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coffeydoescode
 - 👀 I’m interested in becoming a fullstack developer
 - 🌱 I’m currently learning HTML CSS and Javascript
-- 📫 How to reach me seanmichaelcoffey98@gmail.com
+- 📫 How to reach me coffeydoescode@protonmail.com
 
 <!---
 coffeydoescode/coffeydoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
